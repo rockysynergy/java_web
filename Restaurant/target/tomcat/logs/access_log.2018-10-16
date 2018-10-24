@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Oct/2018:13:11:39 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [16/Oct/2018:13:12:58 +0000] "GET /Restaurant/noodles HTTP/1.1" 200 63 http-bio-8080-exec-3 21
+127.0.0.1 - - [16/Oct/2018:13:14:54 +0000] "GET /Restaurant/noodles?vegetable=mmmm HTTP/1.1" 200 56 http-bio-8080-exec-5 1
+127.0.0.1 - - [16/Oct/2018:13:15:29 +0000] "GET /Restaurant/noodles?vegetable=mmmm HTTP/1.1" 200 56 http-bio-8080-exec-7 3
+127.0.0.1 - - [16/Oct/2018:13:15:29 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+127.0.0.1 - - [16/Oct/2018:14:08:33 +0000] "GET /Restaurant/noodles?vegetable=mmmm HTTP/1.1" 200 56 http-bio-8080-exec-10 1
