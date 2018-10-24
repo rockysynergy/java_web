@@ -14,6 +14,7 @@ public class Kitchen
         s.append("<html><body>\n")
             .append("<h1> Noodles With ")
             .append(vegetable)
+            .append("is declicious!!")
             .append("</h1>\n")
             .append("</body></html>");
 

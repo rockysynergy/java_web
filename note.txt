@@ -1,1 +1,1 @@
-1. mvn help:describe -Dplugin=tomcat7
+1. `mvn help:describe -Dplugin=tomcat7` # Need to issue the command in the directory where tomcat plugin is configured in pom.xml
